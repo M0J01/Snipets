@@ -16,7 +16,7 @@ import re
 	# print titles
 #	i+=1
 
-	
+#making changes like a fiddler	
 	
 url1="http://";
 url2 = "google.com"
