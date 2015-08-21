@@ -25,3 +25,5 @@ while i < len(urls):
 
 # webbrowser.open(url,new=new);
 
+#Now we are going to try to a "pull" manoeuvre.
+
